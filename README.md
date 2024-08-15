@@ -2,7 +2,7 @@ Contributers: Anirudh Jayamangala Srinivas Nithin Reddy Challa Sainath Reddy Dur
 
 How to run: We have genrated a jar file with dependencies to run the project. Navigate to SER515_Group_Gulupalli/ScrumSimulator/target In this folder you will find two jar files. Make sure you run the "ScrumSimulator-1.0-SNAPSHOT-jar-with-dependencies" file to start the application.
 
-To login as Admin, Use the following credentials: Username: nithin Password: nithin1
+To login as Admins, Use the following credentials: Username: nithin Password: nithin1
 
 To login as Simulation Operator, Use the following credentials: Username: sainath Password: sainath1
 
