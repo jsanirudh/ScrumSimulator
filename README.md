@@ -8,6 +8,6 @@ To login as Simulation Operator, Use the following credentials: Username: sainat
 
 To login as Role Player, Use the following credentials: Username: eshwar Password: eshwar1
 
-As Admin you have the options to add and manage users and view the feedback.
+As Admin you have the options to add and manage users and view the feedbacks.
 
 As the Simulation Operator, you can View User Stories and Add/ Edit/ Delete the User Stories. You can also define the simulation paramaters and start the simulation and access features specific to simulation. You can also provide feedback which will be visible to the the admin
