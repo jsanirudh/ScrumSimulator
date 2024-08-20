@@ -6,7 +6,7 @@ package com.mycompany.scrumsimulator;
 
 import java.sql.Connection;
 import java.sql.DriverManager;
-import java.sql.PreparedStatements;
+import java.sql.PreparedStatement;
 
 /**
  *
